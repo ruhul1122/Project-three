@@ -1,0 +1,84 @@
+
+
+
+
+
+    body{
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+    /*header*/
+   ul li{
+      margin-left: 15px;
+      list-style: none;
+      
+   }
+  li a{
+    text-decoration: none;
+  }
+
+  li a:hover{
+    text-decoration: underline;
+    color: black;
+    font-size: 20px;
+  }
+
+  /*man and oman*/
+  .penguins-image img {
+    height: 350px;
+  }
+  .image-background{
+    background-color: #f1f1f1;
+    padding: 100px;
+    border-radius: 10px;
+    margin-top: 5px;
+  }
+
+  .collume-background{
+    background-color: #ffffff;
+   width: 350px;
+   margin: 5px;
+  
+  }
+  .btn-color{
+    border: none;
+    background-color:#96af31 ;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .dolar-color{
+    color: orange;
+  }
+ .heading-color{
+   color: #363958;
+ }
+
+ /*form part*/
+
+  .imag-shadow{
+    box-shadow: 1px 1px 1px 1px rgb(218, 216, 216);
+    margin-top: 15px;
+  }
+
+  .f0rm{
+    margin-top: 50px;
+    height: 250px;
+    background-color: rgb(231, 231, 231);
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 30px;
+  
+  }
+  .f0rm input{
+    margin-top: 18px;
+  }
+  .f0rm:hover{
+    color:blueviolet;
+  }
+  input:hover{
+       color: hotpink;
+       width: 290px;
+       background-color: cadetblue;
+       border: none;
+  }
